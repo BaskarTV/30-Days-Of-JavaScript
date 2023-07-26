@@ -122,7 +122,7 @@ console.log(sumArray(numbers))
 ```
 
 ```sh
-15
+10
 ```
 
 ### Setting time
